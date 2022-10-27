@@ -216,7 +216,7 @@ In the second approach, we adopt another gender bias measurement strategy and us
 <tbody>
   <tr>
     <td class="tg-0lax" rowspan="4">BERT-base-uncased</td>
-    <td class="tg-0lax" rowspan="2"><a href="https:https://github.com/navid-rekabsaz/GenderBias_IR/blob/master/resources/queries_gender_annotated.csv" target="_top">1765 Neutral Queries</td>
+    <td class="tg-0lax" rowspan="2"><a href="https://github.com/navid-rekabsaz/GenderBias_IR/blob/master/resources/queries_gender_annotated.csv" target="_top">1765 Neutral Queries</td>
     <td class="tg-0lax">Original Dataset <a href="https://github.com/anonymousbias/balanced-relevance-judgment-collection/blob/main/results/trec_runs/1765_neutral_queries/bert_base_uncased_original_dataset.trec" target="_top"> (Run)</td>
     <td class="tg-baqh">0.072</td>
     <td class="tg-baqh">-</td>
