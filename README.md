@@ -1,4 +1,4 @@
-# Balancing Large-scale Relevance Judgement Collections for Fair Neural Ranking
+# De-Biasing Relevance Judgements for Fair Ranking
 This repository contains the code and resources for our proposed approach to create a balanced relevance-judgment collection that diminishes the bias conveyed to neural rankers. The main focus of this approach is to propose an automated method to generate pairs of query and relevant documents that have controlled degrees of bias. Figure below shows our proposed methodology.
 
 <p align="center">
