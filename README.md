@@ -344,7 +344,7 @@ We further compare our work with the state of the art method that proposes an ad
 </table>
 
 ## Resources
-We release the run files, BERT models fine-tuned on all the dataset, our proposed balanced query-document pairs, and the codes for bias measurement to help the community reproduce our results. Due to the file size limitations, fine-tuned models and some of the run files are uploaded [here](https://drive.google.com/file/d/1fDply69C8_csrEe-99ZtweopHbgycbMa/view?usp=sharing).
+We release the run files, BERT models fine-tuned on all the dataset, our proposed balanced query-document pairs, and the codes for bias measurement to help the community reproduce our results. Due to the file size limitations, fine-tuned models and some of the run files are uploaded [here](https://drive.google.com/file/d/1gPxHVyBxAKT9_qvfnqLVmcHZMLM29_BU/view?usp=sharing).
 ## Usage
 ##### In order to achieve a balanced set of query_document pairs and train models on the de-biased dataset, one should replicate the following steps:
 
