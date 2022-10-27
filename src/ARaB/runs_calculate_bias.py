@@ -4,17 +4,17 @@ import numpy as np
 import pickle
 
 
-docs_bias_paths = {'tc':"/home/amin/git_repos/GenderBias_IR/data/msmarco_passage_docs_bias_tc.pkl",
-                   'tf':"/home/amin/git_repos/GenderBias_IR/data/msmarco_passage_docs_bias_tf.pkl",
-                   'bool':"/home/amin/git_repos/GenderBias_IR/data/msmarco_passage_docs_bias_bool.pkl",
+docs_bias_paths = {'tc':"data/msmarco_passage_docs_bias_tc.pkl",
+                   'tf':"data/msmarco_passage_docs_bias_tf.pkl",
+                   'bool':"data/msmarco_passage_docs_bias_bool.pkl",
                    }
 
 at_ranklist = [5, 10, 20, 30, 50, 100]
 
 # dictionary of models (experiemnts) with their corresponding path of run files
 # the path of these run files should be set
-experiments = {'run_file_biased':'/home/amin/projects/example/biased.trec',
-                'run_file_unbiased':'/home/amin/projects/example/unbiased.trec',
+experiments = {'run_file_biased':'run_file_biased.trec',
+                'run_file_unbiased':'run_file_unbiased.trec',
                }
 
 queries_gender_annotated_path = "resources/queries_gender_annotated.csv"
