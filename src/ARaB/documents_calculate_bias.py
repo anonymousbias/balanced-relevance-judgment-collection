@@ -2,7 +2,7 @@ import collections
 import numpy as np
 import pickle
 
-collection_path = "/home/amin/projects/IPM/data/collection/collection.tsv" #path to a preprocessed version of collection.tsv provided by MSMARCO collection
+collection_path = "data/collection/collection.tsv" #path to a preprocessed version of collection.tsv provided by MSMARCO collection
 wordlist_path = "resources/wordlist_genderspecific.txt"
 
 docs_bias_save_paths = {'tc':"data/msmarco_passage_docs_bias_tc.pkl",
