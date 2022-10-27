@@ -314,7 +314,7 @@ We further compare our work with the state of the art method that proposes an ad
   <tr>
     <td class="tg-0pky" rowspan="3"><a href="https://github.com/CPJKU/FairnessRetrievalResults/blob/main/resources/fairnesssensitive_queries/msmarco_passage.dev.fair.tsv" target="_top">215 Social Problematic Queries</td>
     <td class="tg-0pky">Original Dataset <a href="https://github.com/balancedbias/debiasingneuralrankers/blob/main/results/trec_runs/215_neutral_queries/bert_tiny_original_dataset.trec"> (Run)</td>
-    <td class="tg-c3ow">0.162</td>
+    <td class="tg-c3ow">0.175</td>
     <td class="tg-c3ow">0.005</td>
     <td class="tg-c3ow">-</td>
     <td class="tg-c3ow">0.006</td>
