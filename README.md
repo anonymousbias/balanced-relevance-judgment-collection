@@ -1,10 +1,8 @@
 # De-Biasing Relevance Judgements for Fair Ranking
 This repository contains the code and resources for our proposed approach to create a balanced relevance-judgment collection that diminishes the bias conveyed to neural rankers. The main focus of this approach is to propose an automated method to generate pairs of query and relevant documents that have controlled degrees of bias. Figure below shows our proposed methodology.
-
 <p align="center">
   <img src="https://github.com/anonymousbias/balanced-relevance-judgment-collection/blob/main/Methodology.png">
 </p>
-
 As you can see, Table 1 shows some examples of balanced query-document pairs. In this table each female and male document-pairs share similar level of psychological characteristics in their passages.
 #### Table 1: Examples of paired gendered queries in our generated dataset
 <table class="tg">
